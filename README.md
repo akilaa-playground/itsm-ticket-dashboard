@@ -47,10 +47,9 @@ http://localhost:8501
 
 ```
 TicketID,Type,Status,Priority,CreatedDate
-1001,Incident,Open,High,2025-07-01
-1002,Change,Closed,Low,2025-07-02
-1003,Problem,In Progress,Medium,2025-07-02
-1004,Incident,Closed,High,2025-07-03
+1001,Incident,Open,High,2023-01-01
+1002,Change,Closed,Low,2023-01-02
+1003,Problem,In Progress,Medium,2023-01-02
 ...
 ```
 
