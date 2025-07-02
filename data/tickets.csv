@@ -1,0 +1,12 @@
+
+TicketID,Type,Status,Priority,CreatedDate
+1001,Incident,Open,High,2023-01-01
+1002,Change,Closed,Low,2023-01-02
+1003,Problem,In Progress,Medium,2023-01-02
+1004,Incident,Closed,High,2023-01-03
+1005,Change,Open,High,2023-01-03
+1006,Problem,Closed,Low,2023-01-04
+1001,Incident,In Progress,Medium,2025-01-05
+1008,Incident,Closed,Low,2025-01-06
+1009,Change,Closed,High,2025-01-01
+1010,Problem,Open,Medium,2025-01-08
